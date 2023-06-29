@@ -38,7 +38,7 @@ password: "uZNxL5*_mhWmA8vP";
 - Return back to your VSCode IDE and within the repo directory, install Dompdf library by running this command inside your bash terminal: "composer require dompdf/dompdf"
 - Open a browser and go to URL http://localhost/students_management-app/
 - Administration access login information
-username: "lexischool"
+username: "lexischool";
 password: "unlockme123"
 
 
