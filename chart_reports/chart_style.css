@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.head_container {
+    background-color: #003366;
+    padding: 20px;
+    text-align: center;
+}
+
+.heading {
+    color: #fff;
+    margin: 0;
+}
+
+.graph-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    margin: 50px auto;
+}
+
+canvas {
+    max-width: 80%;
+    max-height: 100%;
+}
