@@ -206,7 +206,7 @@ $all_data = GetAll::getPage($conn, $paginator->limit, $paginator->offset);
         <div class="container-fluid">
             
             <div style="margin: 25px 50px 25px 50px; background-color: black; color: white; border-radius:20px">
-                <h1 align="center">Booking Database Table</h1>
+                <h1 align="center">Records Database Table</h1>
             </div>
 
             <table class="table table-dark table-hover">

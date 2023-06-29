@@ -52,7 +52,7 @@ if (isset($_POST['download'])){
 
                 <h2><?= htmlspecialchars($data["student_name"]); ?></h2> 
                 <p><b>ID:</b> <?= htmlspecialchars($data["id"]); ?></p>
-                <p>Email: <?= htmlspecialchars($data["email"]); ?></p>
+                <p>Email: <?= htmlspecialchars($data["email"]); ?>@lexischool.com</p>
                 <p>Username: <?= htmlspecialchars($data["username"]);?></p>
                 <p>Grade: <?= $data["grade"];?></p>
                 <p>Class: <?= $data["class"];?></p>
