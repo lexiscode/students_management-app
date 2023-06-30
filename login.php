@@ -6,7 +6,6 @@ require "includes/auth.php";
 // initializes the session
 session_start();
 
-// NB: This below will no longer be necessary if you won't be displaying the new article link page for non-login users
 if (isLoggedIn()){
     
     die("Unauthorized. You must be logged out first." . PHP_EOL . "<a href='index.php'>Back To Homepage</a>");
