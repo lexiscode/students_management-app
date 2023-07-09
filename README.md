@@ -14,7 +14,7 @@ The Student Records Management System is a web application built using vanilla P
 
 For the project demo, you can look at the video below:
 
-https://github.com/lexiscode/students_management-app/assets/42210784/faa6d7e4-6527-4f5f-9722-def248191f3e
+https://github.com/lexiscode/students_management-app/assets/42210784/e493dd2c-50cd-4e3f-b380-1217bd1f828b
 
 ## Installation
 
